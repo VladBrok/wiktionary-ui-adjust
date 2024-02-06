@@ -9,7 +9,7 @@
   "content_scripts": [
     {
       "js": ["script.js"],
-      "matches": ["https://*.wiktionary.org/wiki/"]
+      "matches": ["https://*.wiktionary.org/wiki/*"]
     }
   ]
 }
